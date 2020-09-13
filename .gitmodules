@@ -1,2 +1,4 @@
 [submodule "delivery-web"]
 	url = https://github.com/mahdyhamad/delivery-web
+[submodule "django_delivery"]
+	url = https://github.com/mahdyhamad/django-delivery
