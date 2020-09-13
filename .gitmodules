@@ -1,0 +1,2 @@
+[submodule "delivery-web"]
+	url = git@github.com:mahdyhamad/delivery-web.git
