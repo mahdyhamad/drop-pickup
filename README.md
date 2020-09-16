@@ -1,5 +1,7 @@
 # Drop-Pickup :package:
 
+Admin site: https://django-drop-and-pickup.herokuapp.com/admin
+
 This is the main repo for Team Drop and Pickup.
 
 Team Members:
