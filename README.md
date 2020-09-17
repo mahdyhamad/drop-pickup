@@ -35,7 +35,13 @@ Team Members:
   - Mahdy Mousa/Hamad
 
 ## Main Goal :rocket:
-Our idea is to create a platform to be the median in which makes delivery of items between indeviduals easier and more flixable. The delivery process begins when a person signup to the platform and create a DROP order, then he/she will select the person whom recieving this package, the package details, the closest store in which the package will stay until the authorized person pick it up.
+
+![image](https://github.com/mahdyhamad/Drop-Pickup/blob/master/1.jpg)
+
+![image](https://github.com/mahdyhamad/Drop-Pickup/blob/master/2.jpg)
+
+![image](https://github.com/mahdyhamad/Drop-Pickup/blob/master/3.jpg)
+
 
 ## Architecture 
 The platform is a web application consist of two parts, the Frontend, and the Backend.
