@@ -1,6 +1,6 @@
 # Drop-Pickup :package:
-
-Admin site: https://admin-drop-and-pickup.herokuapp.com
+  
+Admin site: https://admin-drop-and-pickup.herokuapp.com/admin
 
 This is the main repo for Team Drop and Pickup.
 
