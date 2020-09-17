@@ -13,7 +13,8 @@ Main site: https://drop-and-pickup.herokuapp.com/login
 
 ### Staging Users (main site):
 
-`Note: if you made changes and did not see data, refresh the page`
+`Note: if you made changes and did not see data, refresh the page. Users are technically on the same table in the database, so if you login in the main site using admin users, you will not get the desired experience.
+`
 
 -- email: ahmadsameer@gmail.com 
 -- password: ahmadsameer
