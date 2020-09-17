@@ -1,6 +1,8 @@
 # Drop-Pickup :package:
   
 Admin site: https://admin-drop-and-pickup.herokuapp.com/admin
+
+Main site: https://drop-and-pickup.herokuapp.com/login
 ### Super user credentials:
 - username: admin
 - password: admin123
