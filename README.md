@@ -4,6 +4,9 @@ Admin site: https://admin-drop-and-pickup.herokuapp.com/admin
 ### Super user credentials:
 - username: admin
 - password: admin123
+## Create a store:
+- To create a store, you have to create a client, then go to users and create a user and assign him/heer a client.
+- Logout from super user and login with store credentials and you should see you shipments and other details.
 
 This is the main repo for Team Drop and Pickup.
 
