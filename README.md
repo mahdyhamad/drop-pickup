@@ -1,6 +1,8 @@
 # Drop-Pickup :package:
   
 Admin site: https://admin-drop-and-pickup.herokuapp.com/admin
+username: admin
+password: admin123
 
 This is the main repo for Team Drop and Pickup.
 
